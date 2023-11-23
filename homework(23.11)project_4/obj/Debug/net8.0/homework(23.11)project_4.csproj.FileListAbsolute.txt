@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\bin\Debug\net8.0\homework(23.11)project_4.exe
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\bin\Debug\net8.0\homework(23.11)project_4.deps.json
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\bin\Debug\net8.0\homework(23.11)project_4.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\bin\Debug\net8.0\homework(23.11)project_4.dll
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\bin\Debug\net8.0\homework(23.11)project_4.pdb
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\obj\Debug\net8.0\homework(23.11)project_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\obj\Debug\net8.0\homework(23.11)project_4.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\obj\Debug\net8.0\homework(23.11)project_4.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\obj\Debug\net8.0\homework(23.11)project_4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\obj\Debug\net8.0\homework(23.11)project_4.sourcelink.json
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\obj\Debug\net8.0\homework(23.11)project_4.dll
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\obj\Debug\net8.0\refint\homework(23.11)project_4.dll
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\obj\Debug\net8.0\homework(23.11)project_4.pdb
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\obj\Debug\net8.0\homework(23.11)project_4.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение\КВ\С#\homework(23.11)project_4\obj\Debug\net8.0\ref\homework(23.11)project_4.dll
