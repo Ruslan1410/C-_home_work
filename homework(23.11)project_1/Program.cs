@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Внутри класса Answer напишите метод CompareNumbers,
+// который на вход принимает два числа и выводит, какое число большее, а какое меньшее.
+
+using System;
 
 public class Answer {
     static void CompareNumbers(int firstNumber, int secondNumber)
