@@ -1,32 +1,33 @@
-﻿using System; 
-using System.Linq;
- 
-namespace Homework_2_4; 
- 
-public static class Program 
-{
- public static void Main()
-{
-    int count = 1;
-    Console.WriteLine("Введеите число: ");
-    int num = Convert.ToInt32(Console.ReadLine());
-    int num_for_count = num;
-    if (num > 9)
+﻿using System;
+
+public class Answer {
+    static void CompareNumbers(int firstNumber, int secondNumber)
     {
-        while ( (num_for_count / 10) > 10 )
+        if (firstNumber == secondNumber)
         {
-            num_for_count = num_for_count / 10;
-            count++;
+            Console.WriteLine($"Введенные числа равны `{firstNumber}`");
         }
- // this just for control
- //       Console.WriteLine(count);
-        while (count > 0 )
+        if (firstNumber > secondNumber)
         {
-        Console.Write($"{(num / Convert.ToInt32(Math.Pow(10, count)))}, ");
-        num = num - ((num / Convert.ToInt32(Math.Pow(10, count)))*Convert.ToInt32(Math.Pow(10, count)));
-        count = count - 1;
+            Console.WriteLine($"Первое число `{firstNumber}` больше чем второе число `{secondNumber}`");
+        }
+        if (firstNumber < secondNumber)
+        {
+            Console.WriteLine($"Первое число `{firstNumber}` меньше чем второе число `{secondNumber}`");
         }
     }
-    Console.Write(num);
-}
+
+    static public void Main(string[] args) {
+        int firstNumber, secondNumber;
+
+        if (args.Length >= 2) {
+            firstNumber = int.Parse(args[0]);
+            secondNumber = int.Parse(args[1]);
+        } else {
+            firstNumber = 5;
+            secondNumber = 5;
+        }
+
+        CompareNumbers(firstNumber, secondNumber);
+    }
 }
