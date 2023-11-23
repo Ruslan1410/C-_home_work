@@ -27,7 +27,7 @@ public class Answer {
             firstNumber = int.Parse(args[0]);
             secondNumber = int.Parse(args[1]);
         } else {
-            firstNumber = 5;
+            firstNumber = 9;
             secondNumber = 5;
         }
 
